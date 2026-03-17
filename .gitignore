@@ -1,0 +1,13 @@
+# Java
+target/
+*.class
+.mvn/
+mvnw.cmd
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Docker & OS
+.DS_Store

@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "Iniciando Nexora Auth Service (Spring Boot)..."
+# Simulación de ejecución de Java
+java -version
+sleep infinity
